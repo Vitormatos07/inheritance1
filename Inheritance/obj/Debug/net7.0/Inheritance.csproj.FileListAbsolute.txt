@@ -1,0 +1,14 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção10-Herança e polimorfismo\Inheritance\Inheritance\bin\Debug\net7.0\Inheritance.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção10-Herança e polimorfismo\Inheritance\Inheritance\bin\Debug\net7.0\Inheritance.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção10-Herança e polimorfismo\Inheritance\Inheritance\bin\Debug\net7.0\Inheritance.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção10-Herança e polimorfismo\Inheritance\Inheritance\bin\Debug\net7.0\Inheritance.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção10-Herança e polimorfismo\Inheritance\Inheritance\bin\Debug\net7.0\Inheritance.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção10-Herança e polimorfismo\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção10-Herança e polimorfismo\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção10-Herança e polimorfismo\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção10-Herança e polimorfismo\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção10-Herança e polimorfismo\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção10-Herança e polimorfismo\Inheritance\Inheritance\obj\Debug\net7.0\refint\Inheritance.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção10-Herança e polimorfismo\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção10-Herança e polimorfismo\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção10-Herança e polimorfismo\Inheritance\Inheritance\obj\Debug\net7.0\ref\Inheritance.dll
